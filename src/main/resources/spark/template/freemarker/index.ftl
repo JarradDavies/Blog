@@ -14,9 +14,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>I've written one blog post!</h3>
+                    <h3>I've written some blog posts</h3>
                     <ul>
                         <li><a href="/posts/hello_world/">Hello World</a></li>
+						<li><a href="/posts/hipsters/">Stop using EMACS and Vim, hipster</a></li>
                     </ul>
             </div>
           </div>
