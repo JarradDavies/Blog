@@ -23,7 +23,7 @@
 
 				<p>However, I am not one to complain without offering a solution. I propose a gladiatorial arena deathmatch between Vim and Emacs users. Teams of three battle to the death until only one team is left. Then, that group is given a victory parade ending in them being killed off. Then and only then will the World be able to move on from these backwards traditions.</p>.</p>
 				<p></p>
-				<p>  <font size="6">If I did, it'd probably make more sense than the interface for Vim and Emacs</font>  </p>
+				<p>  <font size="1">If I did, it'd probably make more sense than the interface for Vim and Emacs</font>  </p>
 				<p></p>
 				
             </div>
