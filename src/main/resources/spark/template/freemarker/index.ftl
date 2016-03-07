@@ -16,8 +16,9 @@
                 <div class="col-md-6">
                     <h3>I've written some blog posts</h3>
                     <ul>
-                        <li><a href="/posts/hello_world/">Hello World</a></li>
 						<li><a href="/posts/hipsters/">Stop using EMACS and Vim, hipster</a></li>
+                        <li><a href="/posts/hello_world/">Hello World</a></li>
+						
                     </ul>
             </div>
           </div>

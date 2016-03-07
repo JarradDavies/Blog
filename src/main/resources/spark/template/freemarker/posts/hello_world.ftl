@@ -8,7 +8,8 @@
         <div class="container">
             <div class="row">
                 <h3>Hello World!</h3>
-                <p>This is a blog post!</p>
+                <p>This is the first blog post. Not much is here.</p>
+				<p>It's quiet, isn't it?</p>
             </div>
           </div>
         </div>
