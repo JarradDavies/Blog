@@ -22,8 +22,7 @@
 				<p><img src="http://i.imgur.com/xqn8C6W.png" alt="poop" style="width:400px;height:300px;"></p>
 
 				<p>However, I am not one to complain without offering a solution. I propose a gladiatorial arena deathmatch between Vim and Emacs users. Teams of three battle to the death until only one team is left. Then, that group is given a victory parade ending in them being killed off. Then and only then will the World be able to move on from these backwards traditions.</p>.</p>
-				<p></p>
-				<p style="font-size:6x">If I did, it'd probably make more sense than the interface for Vim and Emacs</font></p>
+				<p style="font-size:6x">*If I did, it'd probably make more sense than the interface for Vim and Emacs</font></p>
 				<p></p>
 				
             </div>
